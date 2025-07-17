@@ -1,0 +1,1 @@
+requests  # For making API calls to Cricinfo
